@@ -26,4 +26,5 @@ img{
 figcaption{
    color:cadetblue;
    font-family:verdana;
+   border: 2px solid lightseagreen;
 }
