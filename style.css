@@ -4,7 +4,6 @@ body{
 
 
 figure{
-   background-color:lightseagreen;
    border:5px;color:darkseagreen;
 }
 
@@ -19,12 +18,11 @@ p{
 img{
    width:200px;
    height:250;
-   border:5px;color:lightseagreen;
+   border:20px;color:lightseagreen;
 }
 
 
 figcaption{
    color:cadetblue;
-   text-align:center;
 }
 
