@@ -1,0 +1,28 @@
+body{
+    background-color:aqua;
+}
+
+figure{
+    background-color:lightseagreen;
+    border:5px;color:darkseagreen;
+}
+
+p{
+    font-size:24px;
+    font-family:verdana;
+    color:seagreen;
+    text-align:center;
+}
+
+img{
+    width:200px;
+    height:250;
+    float: right;
+    border:5px;color:lightseagreen;
+}
+
+figcaption{
+    color:cadetblue;
+    text-align: center;
+}
+
