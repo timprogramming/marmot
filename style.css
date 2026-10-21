@@ -5,6 +5,7 @@ body{
 
 
 figure{
+   display:inline-block;
    border:8px solid;
    color:darkseagreen;
 }
