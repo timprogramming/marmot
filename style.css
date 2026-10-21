@@ -4,7 +4,9 @@ body{
 
 
 figure{
-   border:5px;color:darkseagreen;
+   display:inline-block;
+   background-color:cadetblue;
+   padding:10px;
 }
 
 
@@ -16,13 +18,12 @@ p{
 
 
 img{
+   border:20px;color:lightseagreen;
    width:200px;
    height:250;
-   border:20px;color:lightseagreen;
 }
 
 
 figcaption{
-   color:cadetblue;
+   color:seagreen;
 }
-
