@@ -1,28 +1,30 @@
 body{
-    background-color:aqua;
+   background-color:aqua;
 }
+
 
 figure{
-    background-color:lightseagreen;
-    border:5px;color:darkseagreen;
+   background-color:lightseagreen;
+   border:5px;color:darkseagreen;
 }
+
 
 p{
-    font-size:24px;
-    font-family:verdana;
-    color:seagreen;
-    text-align:center;
+   font-size:24px;
+   font-family:verdana;
+   color:seagreen;
 }
+
 
 img{
-    width:200px;
-    height:250;
-    float: right;
-    border:5px;color:lightseagreen;
+   width:200px;
+   height:250;
+   border:5px;color:lightseagreen;
 }
 
+
 figcaption{
-    color:cadetblue;
-    text-align: center;
+   color:cadetblue;
+   text-align:center;
 }
 
