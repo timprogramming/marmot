@@ -28,3 +28,8 @@ figcaption{
    font-family:verdana;
    border: 2px solid lightseagreen;
 }
+
+.red{
+   background-color:darkred;
+   filter: hue-rotate(140deg);
+}
