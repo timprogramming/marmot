@@ -1,7 +1,6 @@
 body {
    background-color: aqua;
    font-family: verdana;
-   display: inline-block;
    text-align: center; 
    overflow-x: hidden;
    margin: 0;
