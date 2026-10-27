@@ -3,6 +3,7 @@ body {
    font-family: verdana;
    text-align: center; 
    overflow-x: hidden;
+   display: inline-block;
    margin: 0;
    padding: 0;
    height: 100%;
@@ -10,6 +11,7 @@ body {
 
 
 header {
+   width: 100%;
    background-color: aqua;
    margin-right: 20px;
    margin-left: 20px;
