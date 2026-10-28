@@ -2,22 +2,12 @@ body {
    background-color: aqua;
    font-family: verdana;
    text-align: center; 
+   align-items: center;
    overflow-x: hidden;
    display: inline-block;
    margin: 0;
-   padding: 0;
+   padding: 10px;
    height: 100%;
-}
-
-
-header {
-   width: 100%;
-   background-color: aqua;
-   margin-right: 20px;
-   margin-left: 20px;
-   margin-top: -16px;
-   padding-top: 20px;
-   padding-left: 40px;
 }
 
 
@@ -49,6 +39,18 @@ figcaption {
 }
 
 
+.head {
+   width: 100%;
+   background-color: aqua;
+   margin-right: 20px;
+   margin-left: 20px;
+   margin-top: -16px;
+   padding-top: 20px;
+   padding-left: 40px;
+   padding-right: 40px;
+}
+
+
 .image-wrapper { 
    display: inline-block;
    width: 200px;
@@ -72,7 +74,7 @@ figcaption {
    top: 150vmin;
    left: 110vmin;
    clip-path: inset(0 0 60% 0);
-   z-index: -1;
+   z-index: -1000;
 }
 
 
@@ -84,7 +86,7 @@ figcaption {
    border-radius: 50%;
    top: -40vmin;
    left: -55vmin;
-   z-index: -1;
+   z-index: -100;
 }
 
 
